@@ -29,6 +29,7 @@ Samples of Student Work
 [Devin](https://devh2.github.io/Chemotaxis/)   
 [Simon](https://krypt1cc.github.io/Chemotaxis/)   
 [Justin](https://justinkwong7.github.io/Chemotaxis/)   
+[Lila](https://lilacs415.github.io/Chemotaxis/)   
 [Jason](https://jasontov.github.io/Chemotaxis/)   
 [Ethan](https://ethanlliu.github.io/Chemotaxis/)   
 [Nolan](https://nolan019.github.io/Chemotaxis/)   
