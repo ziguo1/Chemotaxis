@@ -82,7 +82,7 @@ Samples of Student Work
 [Derek](https://dehuynh3.github.io/Chemotaxis/)   
 [Aaron](https://aaliu1.github.io/Chemotaxis/)   
 [George](https://spospicy.github.io/Chemotaxis/)   
-{Annika](https://ahilladakis.github.io/Chemotaxis/)   
+[Annika](https://ahilladakis.github.io/Chemotaxis/)   
 [Richard](https://richafk.github.io/Chemotaxis/)   
 [Kazu](https://chshimotake.github.io/Chemotaxis/)   
 [Jared](https://jaredsinasohn.github.io/Chemotaxis/)   
