@@ -5,7 +5,7 @@ Chemotaxis is when an organism moves toward or away from a chemical stimulus lik
 Requirements
 ============
 1. A class to represent a single bacteria or some other single organism. The class will have the following members:
-   - 3 `int`s which hold the x and y coordinates of the bacteria position, and the bacteria color. (See slide 35 on the [OOP--ClasseOOP--ArraysOfObjectss](https://docs.google.com/presentation/d/1dEzW5NHZsPRZKKsc-hBK0JaJQX7IDZgCw4INZ3t45Ic/edit?usp=sharing) presentation for one way to store the bacteria color in an `int` variable)
+   - 3 `int`s which hold the x and y coordinates of the bacteria position, and the bacteria color. (See slide 35 on the [OOP--ArraysOfObjectss](https://docs.google.com/presentation/d/1dEzW5NHZsPRZKKsc-hBK0JaJQX7IDZgCw4INZ3t45Ic/edit?usp=sharing) presentation for one way to store the bacteria color in an `int` variable)
    - A constructor which initializes the 3 `int`s
    - `void move()` which moves the bacteria in a **random walk** pattern.
    - `void show()` which draws the bacteria using the three member variables 
