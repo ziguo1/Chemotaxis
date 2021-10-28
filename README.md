@@ -362,5 +362,11 @@ Samples of Student Work
 [Nate](https://nsirival.github.io/Chemotaxis/)   
 [Nathan](https://naguan1.github.io/Chemotaxis/)   
 [Nathan](https://naleung1.github.io/Chemotaxis/)   
+[Noelle](https://noellelam.github.io/Chemotaxis/)   
+[Pyry](https://pyrym24.github.io/Chemotaxis/)   
+[Ryan](https://chknwngs999.github.io/Chemotaxis/)   
+[Sophia](https://sophiapeckner.github.io/Chemotaxis/)   
+[Tobias](https://tobyzuercher.github.io/Chemotaxis/)   
+[William](https://williamlaw2005.github.io/Chemotaxis/)   
 
  
