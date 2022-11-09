@@ -368,7 +368,7 @@ Samples of Student Work
 [Sophia](https://sophiapeckner.github.io/Chemotaxis/)   
 [Tobias](https://tobyzuercher.github.io/Chemotaxis/)   
 [William](https://williamlaw2005.github.io/Chemotaxis/)   
-[]: # (BLOCK 4 | YEAR 22-23)
+[comment]: # (Block 4, 22-23)
 [Angela](https://angelachen690.github.io/Chemotaxis/) 
 [Kevin](https://shibainuinuinu.github.io/Chemotaxis/)   
 [Lily](https://lantom101.github.io/Chemotaxis/)  
