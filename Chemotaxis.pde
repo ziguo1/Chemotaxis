@@ -162,7 +162,7 @@ class Bacterium {
   }
   
   void draw() {
-    push();
+    pushMatrix();
     {
       double jitterX = Math.random() * 1.5 * (Math.random() > 0.5 ? 1 : -1), 
         jitterY = Math.random() * 1.5 * (Math.random() > 0.5 ? 1 : -1);
@@ -170,6 +170,6 @@ class Bacterium {
       fill(this.clr);
       circle(0, 0, 10);
     }
-    pop();
+    popMatrix();
   }
 }
