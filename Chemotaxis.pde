@@ -64,13 +64,12 @@ Bacterium[] bacteria;
 float targetX = 256, targetY = 256;
 float actualX = 256, actualY = 256;
 
-
-long timeTillNextUpdate = 0L;
+long timeTillNextUpdate = 0;
 boolean auto = false;
 
 void setup() {
   size(512, 512);
-  bacteria = new Bacterium[1_000];
+  bacteria = new Bacterium[1000];
   for (int i = 0; i < bacteria.length; i++) {
     bacteria[i] = new Bacterium();
   }
@@ -121,7 +120,7 @@ class Bacterium {
       (int) (Math.random() * 128) + 128,
       (int) (Math.random() * 128) + 128
     );
-    this.ignoreTill = -1L;
+    this.ignoreTill = -1;
   }
   
   Bacterium(float x, float y, color clr) {
